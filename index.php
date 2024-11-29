@@ -11,6 +11,9 @@
     <h1>Hellow World!</h1>
     <p>Lorem</p>
     <p>Lorem</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
 </body>
 
 </html>
